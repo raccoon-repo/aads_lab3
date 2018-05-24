@@ -1,5 +1,5 @@
-#include "array_list.h"
-#include "heap.h"
+#include "array_list/array_list.h"
+#include "heap/heap.h"
 #include <iostream>
 #include <string>
 
